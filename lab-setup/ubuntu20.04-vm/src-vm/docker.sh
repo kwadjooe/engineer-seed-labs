@@ -7,7 +7,7 @@ sudo apt -y install docker.io
 sudo systemctl enable --now docker
 
 # Optionally give any user administrative privileges to docker:
-sudo usermod -aG docker seed
+sudo usermod -aG docker engineer
 
 
 # Install docker-compose. Check whether 1.27.4 is the newest version

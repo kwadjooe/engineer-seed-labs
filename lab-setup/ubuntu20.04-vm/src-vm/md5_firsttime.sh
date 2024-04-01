@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Building md5collgen from source"
-DOWNLOADS=/home/seed/Downloads/md5tool
+DOWNLOADS=/home/engineer/Downloads/md5tool
 
 # Install the Boost library
 sudo apt -y install libboost-all-dev

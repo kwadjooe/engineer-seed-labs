@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing openssl ..."
-DOWNLOADS=/home/seed/Downloads/openssl
+DOWNLOADS=/home/engineer/Downloads/openssl
 
 # Download the file
 mkdir $DOWNLOADS

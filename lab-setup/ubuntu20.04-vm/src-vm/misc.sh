@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing miscellaneous tools ..."
-DOWNLOADS=/home/seed/Downloads
+DOWNLOADS=/home/engineer/Downloads
 
 
 # Install gdbpeda (gdb plugin)
